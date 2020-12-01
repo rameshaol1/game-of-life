@@ -18,6 +18,7 @@ import com.wakaleo.gameoflife.domain.Universe;
  * GameController.java
  * Controller to navigate the buttons on the game pages
  * new commit on github-testing
+ * New Commit on github-testing for Poll SCM
  */
 @Controller
 @RequestMapping("/game")
